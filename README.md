@@ -1,4 +1,4 @@
-## AF's Calci
+# AF's Calci
 
 This repository contains a simple and interactive calculator application built using the Tkinter library in Python. The calculator offers basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly graphical interface that allows users to perform calculations effortlessly.
 

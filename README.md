@@ -2,14 +2,14 @@
 
 This repository contains a simple and interactive calculator application built using the Tkinter library in Python. The calculator offers basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly graphical interface that allows users to perform calculations effortlessly.
 
-## Features:
+Features:
 
 Supports addition, subtraction, multiplication, and division operations.
 Provides a clean and intuitive user interface created with Tkinter.
 Offers responsive input buttons for easy interaction.
 Designed for simplicity and usability.
 
-## Usage:
+Usage:
 
 Clone or download the repository to your local machine.
 Run the AF_Calculator.py script using a Python interpreter.
